@@ -1,0 +1,4 @@
+bake_task foo "This is a foo"
+function foo {
+  echo "bar"
+}
